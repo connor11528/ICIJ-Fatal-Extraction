@@ -14,12 +14,27 @@ https://www.icij.org/project/fatal-extraction/explore-data-where-australian-mini
 We recommend you read the full data methodology in the "About" section of the interactive app.	
 	
 Data dictionary:	
-	
-Ticker	Code given by the Australian Securities Exchange (ASX)
-Company name	As listed in the ASX
-Producer?	Was the company actually producing minerals as of Dec. 31, 2014? (Y = Yes, N = No)
-Country	Country where the company is active. If a company is active in several African countries, there is one row per country where the company is active.
-Minerals	Minerals explored or produced by the company in this specific country.
-Quarterly Report (Dec. 2014)	Link to the ASX document.
-Annual Report 2014	Link to the ASX document.
-	
+
+
+<dl>
+  <dt>Ticker</dt>
+  <dd>Code given by the Australian Securities Exchange (ASX)</dd>
+
+  <dt>Company name</dt>
+  <dd>As listed in the ASX</dd>
+  
+  <dt>Producer?</dt>
+  <dd>Was the company actually producing minerals as of Dec. 31, 2014? (Y = Yes, N = No)</dd>
+  
+  <dt>Country</dt>
+  <dd>Country where the company is active. If a company is active in several African countries, there is one row per country where the company is active.</dd>
+  
+  <dt>Minerals</dt>
+  <dd>Minerals explored or produced by the company in this specific country.</dd>
+  
+  <dt>Quarterly Report (Dec. 2014)</dt>
+  <dd>Link to the ASX document.</dd>
+  
+  <dt>Annual Report 2014</dt>
+  <dd>Link to the ASX document.</dd>
+</dl>
